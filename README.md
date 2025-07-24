@@ -1,7 +1,7 @@
 # AgriKultura 3000 🌾
 
 A Living NFT Museum of Dying Crops and Farming Traditions  
-WCHL 2025 Entry by Mark Bautista
+WCHL 2025 Entry by Denric Mendoza
 
 ## 💡 Project Idea
 AgriKultura 3000 is a virtual museum that preserves endangered Filipino crops, rituals, and traditional tools using Web3 and gamification.
